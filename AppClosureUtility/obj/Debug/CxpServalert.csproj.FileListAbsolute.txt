@@ -1,0 +1,11 @@
+C:\Users\Ezequiel_Lona\Documents\Alert_CXP\Alert_CXP\bin\Debug\CxpServalert.exe.config
+C:\Users\Ezequiel_Lona\Documents\Alert_CXP\Alert_CXP\bin\Debug\CxpServalert.exe
+C:\Users\Ezequiel_Lona\Documents\Alert_CXP\Alert_CXP\bin\Debug\CxpServalert.pdb
+C:\Users\Ezequiel_Lona\Documents\Alert_CXP\Alert_CXP\obj\Debug\CxpServalert.csproj.AssemblyReference.cache
+C:\Users\Ezequiel_Lona\Documents\Alert_CXP\Alert_CXP\obj\Debug\CxpServalert.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ezequiel_Lona\Documents\Alert_CXP\Alert_CXP\obj\Debug\Alert_CXP.Panel_CXP.resources
+C:\Users\Ezequiel_Lona\Documents\Alert_CXP\Alert_CXP\obj\Debug\CxpServalert.Properties.Resources.resources
+C:\Users\Ezequiel_Lona\Documents\Alert_CXP\Alert_CXP\obj\Debug\CxpServalert.csproj.GenerateResource.cache
+C:\Users\Ezequiel_Lona\Documents\Alert_CXP\Alert_CXP\obj\Debug\CxpServalert.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel_Lona\Documents\Alert_CXP\Alert_CXP\obj\Debug\CxpServalert.exe
+C:\Users\Ezequiel_Lona\Documents\Alert_CXP\Alert_CXP\obj\Debug\CxpServalert.pdb
